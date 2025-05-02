@@ -130,8 +130,7 @@ Lambda output displaying users without MFA or login activity, logged securely to
 - Zero Trust identity boundaries
 - Credential lifecycle reviews
 - Serverless auditing via Lambda
-- IAM automation aligned with DoD 8570/8140 tasks
-
+  
 ---
 
 ## Deliverables & Proof
